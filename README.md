@@ -1,5 +1,5 @@
 # KIT MiCMOR SummerSchool 2019
-![MICMOR](./images/micmor.png "MiCMOR") ![Campus Alpin](./images/kit-campus.jpg "KIT Campus Alpin")
+![](./images/logos.jpg "MiCMOR, KIT Campus Alpin")
 
 Notebooks and info for the **[MiCMOR](https://micmor.kit.edu) [SummerSchool "Environmental Data Science: From Data Exploration to Deep Learning"](https://micmor.kit.edu/sites/default/files/MICMoR%20Summer%20School%202019%20Flyer.pdf)**, IMK-IFU KIT Campus Alpin, Sept. 4 - 13 2019, Garmisch-Partenkirchen, Germany.  
 
