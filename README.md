@@ -3,9 +3,9 @@ Notebooks and info for the **MiCMOR SummerSchool "Environmental Data Science: Fr
 
 The course covers the PyData stack and setting up a Data Science centric development environment, good practices in reproducible science and the handling of common data formats. It then goes into Explorative Data Analysis techniques and effective visualisation, Machine Learning methods and finally applications of Deep Learning models for various Environmental Science tasks.   
  
-# << ToDo List >>
+# TODOs
 ## General
-### Urgent
+### Urgent stuff
 > "Things that should be clarified really soon!  
 
 - [ ] Video recordings
@@ -15,18 +15,20 @@ The course covers the PyData stack and setting up a Data Science centric develop
 	- [ ] Check with R. Kiese if we have a HiWi that would be interested in doing recordings
 - [ ] eMail lecturers about repository, planned schedule and timelines   
 - [ ] Initiate weekly meetings with K. Fuchs to push on and keep momentum 
+- [ ] Student poster notification eMail (1/2 summary, 1/2 data used, required) 
 
-### Soon
+### Resolve soon
 > "These can take a bit longer (but not too long)..."  
 
 - [ ] Setup GCP instance/ docker image for course (should be one image that is also deployed to GCP) 
 - [ ] Schedule some dates to test-drive the notebooks with PhDs at IFU
 
-## Admin
+## Admin tasks
 > "Administrative stuff that needs fixing/ clarification."  
 
 - [ ] Wifi situation in lecture room (setup local access points and local network?)
 - [ ] Saturday activities in addition to BYO data (some hiking suggestions, etc.)
+
 
 ## Datasets
 > "Which datasets could we use for the notebooks?" 
