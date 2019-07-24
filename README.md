@@ -3,19 +3,19 @@
 
 Notebooks and info for the **[MiCMOR](https://micmor.kit.edu) [SummerSchool "Environmental Data Science: From Data Exploration to Deep Learning"](https://micmor.kit.edu/sites/default/files/MICMoR%20Summer%20School%202019%20Flyer.pdf)**, IMK-IFU KIT Campus Alpin, Sept. 4 - 13 2019, Garmisch-Partenkirchen, Germany.  
 
-The course covers the PyData stack and setting up a Data Science centric development environment, good practices in reproducible science and the handling of common data formats. It then goes into Explorative Data Analysis techniques and effective visualisation, Machine Learning methods and finally applications of Deep Learning models for various Environmental Science tasks.   
+This course covers the PyData stack and setting up a Data Science-centric development environment, good practices in reproducible science and the handling of common data formats. It then goes into Explorative Data Analysis techniques and effective visualisation, Machine Learning methods and finally applications of Deep Learning models for various Environmental Science tasks.   
  
 # TODOs
 ## General
 ### Urgent stuff
-> "Things that should be clarified really soon!  
+> "Things that should be clarified really soon!"  
 
 - [ ] Video recordings
 	- [ ] Inform lecturers and ask permission, also clarify the copyright restrictions on slides
 	- [ ] Check with A. Fischer (KIT) about technical details
 	- [ ] Check with Uwe about local requirements  
 	- [ ] Check with R. Kiese if we have a HiWi that would be interested in doing recordings
-- [ ] eMail lecturers about repository, planned schedule and timelines   
+- [ ] Mail lecturers about repository, planned schedule and timelines   
 - [ ] Initiate weekly meetings with K. Fuchs to push on and keep momentum 
 - [ ] Student poster notification eMail (1/2 summary, 1/2 data used, required) 
 
@@ -39,6 +39,10 @@ Ideally, we'd want some IFU datasets that are relevant for a number of participa
 
 |Name|Source|Description|Use for|Comment|
 |:--|:--|:--|:--|:--|
-|USGS tree occurrence|kaggle|Predict tree occurrence based on |ML/ DL(tabular)|Check URL and copyright situation|
-|  |  |  |  |  |
-
+|tree occurrence|UCI|Predict tree occurrence based on |ML/ DL(tabular)|[source](https://archive.ics.uci.edu/ml/datasets/covertype)|
+|amazon satellite classification|kaggle|Multi-objective classification|DL |[source](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space) |  
+|forest fire BA prediction |UCI | Regression on forest fire dataset | ML | [source](https://archive.ics.uci.edu/ml/datasets/Forest+Fires) |  
+|plants|UCI|clustering ? | ML | [source](https://archive.ics.uci.edu/ml/datasets/Plants) | 
+|water treatment plant| UCI | clustering ? | ML | [source](https://archive.ics.uci.edu/ml/datasets/Water+Treatment+Plant) |  
+|GHG observing network| UCI | multi-variate time-series | TS | [source](https://archive.ics.uci.edu/ml/datasets/Greenhouse+Gas+Observing+Network) | 
+|lightning strikes| NOAA | available via thredds server url | ? | [source](https://www.ncei.noaa.gov/thredds/catalog/lightning/catalog.html) |  
