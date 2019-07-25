@@ -84,3 +84,8 @@ Ideally, we'd want some IFU datasets that are relevant for a number of participa
 |water treatment plant| UCI | clustering ? | ML | [source](https://archive.ics.uci.edu/ml/datasets/Water+Treatment+Plant) |  
 |GHG observing network| UCI | multi-variate time-series | TS | [source](https://archive.ics.uci.edu/ml/datasets/Greenhouse+Gas+Observing+Network) | 
 |lightning strikes| NOAA | available via thredds server url | ? | [source](https://www.ncei.noaa.gov/thredds/catalog/lightning/catalog.html) |  
+
+
+
+https://mybinder.org/v2/gh/cwerner/kit_micmor_summerschool_2019.git/master?filepath=nbs%2F01_introduction.ipynb
+
