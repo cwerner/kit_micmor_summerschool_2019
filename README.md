@@ -85,7 +85,5 @@ Ideally, we'd want some IFU datasets that are relevant for a number of participa
 |GHG observing network| UCI | multi-variate time-series | TS | [source](https://archive.ics.uci.edu/ml/datasets/Greenhouse+Gas+Observing+Network) | 
 |lightning strikes| NOAA | available via thredds server url | ? | [source](https://www.ncei.noaa.gov/thredds/catalog/lightning/catalog.html) |  
 
-
-
-https://mybinder.org/v2/gh/cwerner/kit_micmor_summerschool_2019.git/master?filepath=nbs%2F01_introduction.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cwerner/kit_micmor_summerschool_2019/master?filepath=nbs%2F01_introduction.ipynb)
 
