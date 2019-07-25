@@ -1,0 +1,34 @@
+name: datascience
+channels:
+        - defaults
+        - conda-forge
+dependencies:
+        - bottleneck=1.2.1
+        - bqplot=0.11.5
+        - cython=0.29.6
+        - dask=1.1.4
+        - dask-ml=0.8.0  
+        - dask_labextension
+        - feather-format=0.4.0
+        - joblib=0.13.2  
+        - ipython=7.3.0
+        - ipywidgets=7.4.2
+        - jupyter=1.0.0
+        - matplotlib=3.0.3
+        - netCDF4==1.5.1.2  
+        - numpy=1.16.2
+        - pandas=0.24.1
+        - pyarrow=0.12.1
+        - python=3.7.3
+        - seaborn=0.9.0
+        - scipy=1.2.0
+        - scikit-learn=0.21.2
+        - statsmodels=0.9.0
+        - urllib3=1.24.1
+        - xarray=0.12.3  
+        - xgboost=0.81
+        - hvplot=0.4.0
+        - pip=19.0.3
+        - pip:
+                  - tensorflow==1.13.1
+

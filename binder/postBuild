@@ -1,0 +1,2 @@
+#!/bin/bash
+jupyter labextension install dask-labextension @pyviz/jupyterlab_pyviz
