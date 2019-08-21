@@ -5,7 +5,7 @@
 - check fastai for shortcut essentials
 - https://codeburst.io/jupyter-notebook-tricks-for-data-science-that-enhance-your-efficiency-95f98d3adee4
 - https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
-- 
+- ... 
 
 ## Python
 - legacy python versus v3
