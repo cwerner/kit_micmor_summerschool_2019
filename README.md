@@ -18,7 +18,7 @@ This course covers the PyData stack and setting up a Data Science-centric develo
 | [intro_01_python_jupyter.ipynb](nbs/intro_01_python_jupyter.ipynb)| Jupyter/ Python | A general intro to the Jupyter environment and Python concepts |
 | [intro_02_numpy.ipynb](nbs/intro_02_numpy.ipynb)| Numerical computation | A short introduction into key numerical python concepts |
 | [intro_03_pandas.ipynb](nbs/intro_03_pandas.ipynb)| Tabular data  | The library to handle tabular data in python |
-| [intro_04_matplotlib.ipynb](nbs/intro_04_matplotliv.ipynb)| Plotting  | The basis to most python plotting |
+| [intro_04_matplotlib.ipynb](nbs/intro_04_matplotlib.ipynb)| Plotting  | The basis to most python plotting |
 
 ### Data formats, ETL and visualization
 
