@@ -1,7 +1,7 @@
-# KIT MiCMOR SummerSchool 2019
+# KIT MICMoR SummerSchool 2019
 ![](./images/logos.jpg "MiCMOR, KIT Campus Alpin")
 
-Notebooks and info for the **[MiCMOR](https://micmor.kit.edu) [SummerSchool "Environmental Data Science: From Data Exploration to Deep Learning"](https://micmor.kit.edu/sites/default/files/MICMoR%20Summer%20School%202019%20Flyer.pdf)**, IMK-IFU KIT Campus Alpin, Sept. 4 - 13 2019, Garmisch-Partenkirchen, Germany.  
+Notebooks and info for the **[MICMoR](https://micmor.kit.edu) [SummerSchool "Environmental Data Science: From Data Exploration to Deep Learning"](https://micmor.kit.edu/sites/default/files/MICMoR%20Summer%20School%202019%20Flyer.pdf)**, IMK-IFU KIT Campus Alpin, Sept. 4 - 13 2019, Garmisch-Partenkirchen, Germany.  
 
 This course covers the PyData stack and setting up a Data Science-centric development environment, good practices in reproducible science and the handling of common data formats. It then goes into Explorative Data Analysis techniques and effective visualisation, Machine Learning methods and finally applications of Deep Learning models for various Environmental Science tasks.   
 
@@ -29,9 +29,8 @@ This course covers the PyData stack and setting up a Data Science-centric develo
 ### Deep Learning
 
 ## Datasets
-> "Which datasets could we use for the notebooks?" 
 
-Ideally, we'd want some IFU datasets that are relevant for a number of participants. Also, we should check with lecturers if they have pet datasets that make sense and fit their topics/ tools.
+This is a list of datasets we will work with in this course.
 
 |Name|Source|Description|Use for|Comment|
 |:--|:--|:--|:--|:--|
@@ -44,4 +43,3 @@ Ideally, we'd want some IFU datasets that are relevant for a number of participa
 |lightning strikes| NOAA | available via thredds server url | ? | [source](https://www.ncei.noaa.gov/thredds/catalog/lightning/catalog.html) |  
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cwerner/kit_micmor_summerschool_2019/master?filepath=nbs%2F01_introduction.ipynb)
-
