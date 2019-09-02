@@ -15,11 +15,11 @@ This course covers the PyData stack and setting up a Data Science-centric develo
 
 | Notebook         | Topic             | Description         |
 |------------------|-------------------|---------------------|
-| [intro_01_python_jupyter.ipynb](nbs/intro_01_python_jupyter.ipynb)| Jupyter/ Python | A general intro to the Jupyter environment and Python concepts |
-| [intro_02_numpy.ipynb](nbs/intro_02_numpy.ipynb)| Numerical computation | A short introduction into key numerical python concepts |
-| [intro_03_pandas.ipynb](nbs/intro_03_pandas.ipynb)| Tabular data  | The library to handle tabular data in python |
-| [intro_04_matplotlib.ipynb](nbs/intro_04_matplotlib.ipynb)| Plotting  | The basis to most python plotting |
-
+| [01_intro_python.ipynb](nbs/01_intro_python.ipynb)| Python basics | A general intro to Python concepts |
+| [02_intro_numpy.ipynb](nbs/intro_02_numpy.ipynb)| Numerical computation | A short introduction into key numerical python concepts |
+| [03_intro_matplotlib.ipynb](nbs/03_intro_matplotlib.ipynb)| Plotting | The basic plotting facility in Python |
+| [04_intro_pandas.ipynb](nbs/04_intro_pandas.ipynb)| Tabular data  | The library to handle tabular data in python |
+| [05_intro_xarray.ipynb](nbs/05_intro_xarray.ipynb)| Gridded data  | A great package to handle gridded data (based on numpy and pandas, uses netCDF as backend |
 ### Data formats, ETL and visualization
 
 
