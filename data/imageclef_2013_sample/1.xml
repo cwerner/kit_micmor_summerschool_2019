@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>1.jpg</FileName>
+  <IndividualPlantId>246</IndividualPlantId>
+  <Date>11/10/11</Date>
+  <Locality>France - Puéchabon</Locality>
+  <GPSLocality>
+    <Longitude>3.617468</Longitude>
+    <Latitude>43.714103</Latitude>
+  </GPSLocality>
+  <Author>Daniel Barthelemy</Author>
+  <Organization>Cirad</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Ruscus aculeatus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Asparagaceae Juss.</Family>
+    <Genus>Ruscus L.</Genus>
+    <Species>Ruscus aculeatus L.</Species>
+  </Taxon>
+  <VernacularNames>Knee holly</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>144</IndividualPlantId2012>
+  <ImageID2012>1793.jpg</ImageID2012>
+</Image>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>0.jpg</FileName>
+  <IndividualPlantId>470</IndividualPlantId>
+  <Date>30/03/12</Date>
+  <Locality>France - Boulogne-Billancourt</Locality>
+  <GPSLocality>
+    <Longitude>2.213749</Longitude>
+    <Latitude>46.227638</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Corylus avellana</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Betulaceae Gray</Family>
+    <Genus>Corylus L.</Genus>
+    <Species>Corylus avellana L.</Species>
+  </Taxon>
+  <VernacularNames>Common hazel</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

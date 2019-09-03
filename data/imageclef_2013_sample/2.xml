@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>2.jpg</FileName>
+  <IndividualPlantId>94</IndividualPlantId>
+  <Date>20/10/11</Date>
+  <Locality>France - Grabels</Locality>
+  <GPSLocality>
+    <Longitude>3.797119</Longitude>
+    <Latitude>43.647720</Latitude>
+  </GPSLocality>
+  <Author>Jean-Francois Molino</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Phillyrea angustifolia</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Oleaceae Hoffmanns. &amp; Link</Family>
+    <Genus>Phillyrea L.</Genus>
+    <Species>Phillyrea angustifolia L.</Species>
+  </Taxon>
+  <VernacularNames>Mock privet</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>759</IndividualPlantId2012>
+  <ImageID2012>10712.jpg</ImageID2012>
+</Image>
+
