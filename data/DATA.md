@@ -1,3 +1,4 @@
 # Datasets
 
-List of datasets used in the summerschool. Note, due to copyright issues external data is provided as link/ reference only. To actually run these notebooks please download the data to your system first. See the dedicated section for how to do this.
+List of (small) datasets used in the summerschool. Most large datasets are located in Google Cloud Storage buckets
+and need to be copied into the compute instances in the notebooks.
