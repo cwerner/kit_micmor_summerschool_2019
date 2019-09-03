@@ -37,13 +37,13 @@ This course covers the PyData stack and setting up a Data Science-centric develo
 
 | Notebook         | Topic             | Description         |
 |------------------|-------------------|---------------------|
-| [20_ml_algos-iris](nbs/20_ml_algos-iris.ipynb)| Consolidate this | Consolidate this |
-| [20_ml_algos-kmeans](nbs/20_ml_algos-kmeans.ipynb)| Consolidate this | Consolidate this |
-| [20_ml_algos-logreg](nbs/20_ml_algos-logreg.ipynb)| Consolidate this | Consolidate this |
-| [20_ml_algos-naivebayes](nbs/20_ml_algos-naivebayes.ipynb)| Consolidate this | Consolidate this |
-| [21_ml_classifier_comparison](nbs/21_ml_classifier_comparison_MAKE_THIS_SKLEARN_INTRO.ipynb)| Consolidate this | Consolidate this |
+| [20_ml_algos-iris](nbs/20_ml_algos-iris.ipynb)| Machine Learning | Consolidate this |
+| [20_ml_algos-kmeans](nbs/20_ml_algos-kmeans.ipynb)| Machine Learning | Consolidate this |
+| [20_ml_algos-logreg](nbs/20_ml_algos-logreg.ipynb)| Machine Learning | Consolidate this |
+| [20_ml_algos-naivebayes](nbs/20_ml_algos-naivebayes.ipynb)| Machine Learning | Consolidate this |
+| [21_ml_classifier_comparison](nbs/21_ml_classifier_comparison_MAKE_THIS_SKLEARN_INTRO.ipynb)| Machine Learning | Consolidate this |
 
-** Special topics:**
+**Special topics:**
 
 | Notebook         | Topic             | Description         |
 |------------------|-------------------|---------------------|
@@ -56,8 +56,8 @@ This course covers the PyData stack and setting up a Data Science-centric develo
 
 | Notebook         | Topic             | Description         |
 |------------------|-------------------|---------------------|
-| [30_ml_dimensionality-reduction](nbs/30_ml_dimensionality-reduction.ipynb)| ML | PCA, LDA for dimensionality reduction |
-| [31_ml_randomforest](nbs/31_ml_randomforest.ipynb)| ML | Random Forest classifiers and regression |
+| [30_ml_dimensionality-reduction](nbs/30_ml_dimensionality-reduction.ipynb)| Machine Leanring | PCA, LDA for dimensionality reduction |
+| [31_ml_randomforest](nbs/31_ml_randomforest.ipynb)| Machine Learning | Random Forest classifiers and regression |
 | [35_ts_maunaloa.ipynb](nbs/35_ts_maunaloa.ipynb)| Time-series | Working with time-series data |
 
 ### Deep Learning
@@ -65,13 +65,12 @@ This course covers the PyData stack and setting up a Data Science-centric develo
 | Notebook         | Topic             | Description         |
 |------------------|-------------------|---------------------|
 | [40_dl_intro_pytorch_fastai](nbs/40_dl_intro_pytorch_fastai.ipynb)| Deep Learning | Introduction to pytorch and fastai |
-| [41_dl_plant-classifier](nbs/41_dl_plant-classifier.ipynb)| Data checking | A way to encode expectations of your data into code |
-| [42_dl_rain-detection](nbs/42_dl_rain-detection.ipynb)| EDA | Example of an explorative data analysis |
-| [43_dl_amazon-multiclass](nbs/43_dl_amazon-multiclass.ipynb)| EDA | Continued |
-| [44_dl_tabular](nbs/44_dl_tabular.ipynb)| Visualization | An overview of python plotting packages |
-| [45_dl_segmentation](nbs/45_dl_segmentation.ipynb)| Visualization | Visulization of gridded data |
-| [46_dl_temporal-crop-classification](nbs/46_dl_temporal-crop-classification.ipynb)| Visualization | Visulization of gridded data |
-
+| [41_dl_plant-classifier](nbs/41_dl_plant-classifier.ipynb)| Deep Learning | A CNN-based plant identification neural net |
+| [42_dl_rain-detection](nbs/42_dl_rain-detection.ipynb)| Deep Learning | Using a CNN for non-image data |
+| [43_dl_amazon-multiclass](nbs/43_dl_amazon-multiclass.ipynb)| Deep Learning | Building a CNN for multi-label classification |
+| [44_dl_tabular](nbs/44_dl_tabular.ipynb)| Deep Learning | Using NN for tabular data classification |
+| [45_dl_segmentation](nbs/45_dl_segmentation.ipynb)| Deep Learning | Semantic segmentation of satellite data |
+| [46_dl_temporal-crop-classification](nbs/46_dl_temporal-crop-classification.ipynb)| Deep Learning | Recurrend NN for crop identification |
 
 
 ## Datasets :: needs updating
