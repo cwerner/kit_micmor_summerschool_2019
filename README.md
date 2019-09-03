@@ -31,7 +31,7 @@ This course covers the PyData stack and setting up a Data Science-centric develo
 | [13_processing_eda-example1_forestcover_02](nbs/13_processing_eda-example1_forestcover_02.ipynb)| EDA | Continued |
 | [14_vis_plotting_packages_overview](nbs/14_vis_plotting_packages_overview.ipynb)| Visualization | An overview of python plotting packages |
 | [15_vis_plotting_overview2_gridded](nbs/15_vis_plotting_overview2_gridded.ipynb)| Visualization | Visulization of gridded data |
-| [16_vis_plotting_overview2_gridded](nbs/16_vis_holoviews_example1.ipynb | Visualization | Interactive visualizations and exploration |
+| [16_vis_holoviews_example1](nbs/16_vis_holoviews_example1.ipynb) | Visualization | Interactive visualizations and exploration |
 
 ### Classical Machine Learning / Special Topics
 
